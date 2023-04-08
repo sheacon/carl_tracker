@@ -1,0 +1,4 @@
+venv/
+location_history.csv
+.DS_Store
+items.data
