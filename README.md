@@ -6,6 +6,7 @@ Instructions:
 - `Find My` app must be running to refresh AirTag locations
 - In Terminal, navigate to project directory and run script `./run_tracking.sh`
   - Include an optional argument to change recording frequency in seconds (default 60), e.g. `./run_tracking.sh 30`
+  - Note, you need to change permissions for the script to be executable and give Terminal full disk access in settings (or run sudo)
 - While running, the script prevents system sleep 
 
 Dependencies:
