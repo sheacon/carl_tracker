@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# change working dir to script location
+cd "$(dirname "$0")"
+
 # customize
 proj_dir=.
 copied_csv=location_history.csv
