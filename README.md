@@ -1,4 +1,4 @@
-# airtag tracker
+# carl_tracker
 
 This project contains a bash script that collects Apple AirTag data on a regular interval and a Jupyter Notebook for creating maps from that data.
 
