@@ -2,6 +2,12 @@
 
 This project contains a bash script that collects Apple AirTag data on a regular interval and a Jupyter Notebook for creating maps from that data. I developed this to track my outdoor cat [Carl](https://www.instagram.com/carl37209/).
 
+Instructions:
+- `Find My` app must be running to refresh AirTag locations
+- In Terminal, navigate to project directory and run script `./run_tracking.sh`
+  - Include an optional argument to change recording frequency in seconds (default 60), e.g. `./run_tracking.sh 30`
+- While running, the script prevents system sleep 
+
 Dependencies:
 - [`jq`](https://formulae.brew.sh/formula/jq)
 
