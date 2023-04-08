@@ -1,4 +1,6 @@
-venv/
-location_history.csv
 .DS_Store
-items.data
+venv/
+items.tmp
+location_history.csv
+mapping_heat.html
+mapping_trace.html
