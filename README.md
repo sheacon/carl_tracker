@@ -12,7 +12,7 @@ Dependencies:
 - [`jq`](https://formulae.brew.sh/formula/jq)
 
 Credit:
-This is based on the work of [AirtagAlex](https://github.com/icepick3000/AirtagAlex).
+This project builds on work by [AirtagAlex](https://github.com/icepick3000/AirtagAlex).
 
 Disclaimer:
 Tracking adheres to [Apple's privacy standards](https://www.apple.com/newsroom/2022/02/an-update-on-airtag-and-unwanted-tracking/) and only user-owned AirTags can be tracked.
