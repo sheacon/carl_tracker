@@ -7,6 +7,9 @@ proj_dir=~/Projects/airtag_tracker
 copied_csv=location_history.csv
 copied_items=items.data
 
+#prevent system sleep
+caffeinate -w $$ &
+
 #Start an infinite loop
 while :
 do
