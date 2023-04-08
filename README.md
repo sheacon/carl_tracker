@@ -6,6 +6,6 @@ Dependencies:
 - [`jq`](https://formulae.brew.sh/formula/jq)
 
 Credit:
-This is a fork of https://github.com/icepick3000/AirtagAlex
+This is based on the work of [AirtagAlex](https://github.com/icepick3000/AirtagAlex)
 
 
